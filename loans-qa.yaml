@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to the Loans Service in QA Environment"
+  message: "Welcome to the Loans Service in Quality Assurance Environment"
   contactDetails:
     email: "{cipher}b64546e824a83ed05954c40d31d2c7d24cd367c37fcfea859c8a0926e506de8c"
     name: "Sara Doe"
