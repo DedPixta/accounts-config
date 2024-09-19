@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: qa
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to the Loans Service in QA Environment"
+  contactDetails:
+    email: "{cipher}b64546e824a83ed05954c40d31d2c7d24cd367c37fcfea859c8a0926e506de8c"
+    name: "Sara Doe"
+  onCallSupport:
+    - (600) 123-4567
+    - (600) 765-4321
